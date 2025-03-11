@@ -35,5 +35,5 @@ This project involves the implementation of a line-following robot that uses a c
 2. **Sensor Integration**: Addition of line and ultrasonic sensors.
 3. **Visual Feedback**: Integration of NeoPixel LEDs for direction indication.
 
-[Further Details](https://github.com/your-username/robot-avoiding-obstacles/robot-documentation.pdf)
+[Further Details](https://github.com/codruj/Robot-avoiding-obstacles/blob/main/robot-documentation.pdf)
 
